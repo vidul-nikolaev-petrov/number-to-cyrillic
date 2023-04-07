@@ -21,6 +21,20 @@ by adding an object with some propertis. For example:
 ```js
 var numberToString = require('number-to-cyrillic');
 
+numberToString.convert(76.15);
+// {
+//     convertedFractional: "петнадесет";
+//     convertedInteger: "седемдесет и шест";
+//     currenyLang: "bg";
+//     fractional: 15;
+//     fractionalCurrency: "стотинки";
+//     fractionalString: "15";
+//     integer: 76;
+//     integerCurrency: "левa";
+//     shortName: "BGN";
+// }
+
+
 numberToString.convert(21);
 // {
 //    convertedInteger: 'двадцять одна',
