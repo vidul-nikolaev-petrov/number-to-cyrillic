@@ -4,20 +4,12 @@
 
 [![npm version](https://badge.fury.io/js/number-to-cyrillic.svg)](https://badge.fury.io/js/number-to-cyrillic)
 
-Converts number to words (UAH, RUB, USD, EUR and without currency).
-This library supports English, Ukrainian and Russian languages.
+Converts number to words (BGN, UAH, RUB, USD, EUR and without currency).
+This library supports Bulgarian, English, Ukrainian and Russian languages.
 
 ## Install
 
-`npm install number-to-cyrillic`
-
-<br />
-
-`yarn add number-to-cyrillic`
-
-## Demo
-
-You can try this library [here](https://npm.runkit.com/number-to-cyrillic).
+`https://raw.githubusercontent.com/vidul-nikolaev-petrov/number-to-cyrillic/master/lib/numberToString.js`
 
 ## API
 
