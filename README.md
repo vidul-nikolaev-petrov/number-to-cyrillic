@@ -35,7 +35,9 @@ numberToString.convert(76.15);
 // }
 
 
-numberToString.convert(21);
+numberToString.convert(21, {
+  currency: 'uah'
+});
 // {
 //    convertedInteger: 'двадцять одна',
 //    integerCurrency: 'гривня',
