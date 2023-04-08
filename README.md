@@ -1,11 +1,10 @@
-[![NPM](https://nodei.co/npm/number-to-cyrillic.png)](https://www.npmjs.com/package/number-to-cyrillic)
 
 # Convert number to Bulgarian, English, Russian or Ukrainian
 
 [![npm version](https://badge.fury.io/js/number-to-cyrillic.svg)](https://badge.fury.io/js/number-to-cyrillic)
 
 Converts number to words (BGN, UAH, RUB, USD, EUR and without currency).
-This library supports Bulgarian, English, Ukrainian and Russian languages.
+Тази билиотека поддържа превод на Български и Руски.
 
 ## Install
 
