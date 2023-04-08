@@ -1,5 +1,5 @@
 
-# Convert number to Bulgarian, English, Russian or Ukrainian
+# Преобразува числава словом от Българск и Руски
 
 [![npm version](https://badge.fury.io/js/number-to-cyrillic.svg)](https://badge.fury.io/js/number-to-cyrillic)
 
