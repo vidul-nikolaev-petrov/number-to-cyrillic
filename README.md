@@ -1,5 +1,5 @@
 
-# Преобразува числава словом от Български и Руски.
+# Преобразува числава словом на Български и Руски.
 
 [![npm version](https://badge.fury.io/js/number-to-cyrillic.svg)](https://badge.fury.io/js/number-to-cyrillic)
 
